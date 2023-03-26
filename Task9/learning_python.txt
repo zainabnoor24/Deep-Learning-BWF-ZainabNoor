@@ -1,0 +1,3 @@
+In Python you can use listd
+In Python you can make classes
+In Python you can work with files
